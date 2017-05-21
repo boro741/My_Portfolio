@@ -14,3 +14,8 @@ nav {
 .my_info {
     text-align: center;
 }
+
+.tag-line {
+    font-family: 'fabfeltscriptbold';
+    font-size: 40px;
+}

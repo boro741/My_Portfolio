@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=38bbad0ce116814e024d63b6703e9c25)
- * Config saved to config.json and https://gist.github.com/38bbad0ce116814e024d63b6703e9c25
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=0255812308cf448ab0c4c4e68657fbf5)
+ * Config saved to config.json and https://gist.github.com/0255812308cf448ab0c4c4e68657fbf5
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -2974,43 +2974,27 @@ fieldset[disabled] .navbar-inverse .btn-link:hover,
 fieldset[disabled] .navbar-inverse .btn-link:focus {
   color: #444444;
 }
-.pager {
-  padding-left: 0;
-  margin: 20px 0;
-  list-style: none;
-  text-align: center;
+.well {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.05);
 }
-.pager li {
-  display: inline;
+.well blockquote {
+  border-color: #ddd;
+  border-color: rgba(0, 0, 0, 0.15);
 }
-.pager li > a,
-.pager li > span {
-  display: inline-block;
-  padding: 5px 14px;
-  background-color: #ffffff;
-  border: 1px solid #dddddd;
-  border-radius: 15px;
+.well-lg {
+  padding: 24px;
+  border-radius: 6px;
 }
-.pager li > a:hover,
-.pager li > a:focus {
-  text-decoration: none;
-  background-color: #eeeeee;
-}
-.pager .next > a,
-.pager .next > span {
-  float: right;
-}
-.pager .previous > a,
-.pager .previous > span {
-  float: left;
-}
-.pager .disabled > a,
-.pager .disabled > a:hover,
-.pager .disabled > a:focus,
-.pager .disabled > span {
-  color: #777777;
-  background-color: #ffffff;
-  cursor: not-allowed;
+.well-sm {
+  padding: 9px;
+  border-radius: 3px;
 }
 .modal-open {
   overflow: hidden;
@@ -3157,8 +3141,6 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .navbar-header:after,
 .navbar-collapse:before,
 .navbar-collapse:after,
-.pager:before,
-.pager:after,
 .modal-header:before,
 .modal-header:after,
 .modal-footer:before,
@@ -3177,7 +3159,6 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 .navbar:after,
 .navbar-header:after,
 .navbar-collapse:after,
-.pager:after,
 .modal-header:after,
 .modal-footer:after {
   clear: both;
