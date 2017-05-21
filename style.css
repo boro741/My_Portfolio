@@ -1,0 +1,19 @@
+
+nav {
+    display: block;
+    font-family: 'Bitter', serif;
+    float: right;
+}
+
+.my_img {
+    border-radius: 50%;
+  /*  margin-top: 65px; */
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.my_info {
+    text-align: center;
+}
