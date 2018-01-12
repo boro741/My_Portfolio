@@ -6,6 +6,7 @@ nav {
 }
 
 .my_img {
+    margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -24,12 +25,30 @@ nav {
     display: inline;
 }
 
-.footer {
+.fa {
+    color: white;
+}
+
+
+
+header ul {
+    position: fixed;
+    left: 0;
+    width: 100%;
+    background-color: rgb(102, 115, 134);
+    color: white;
+    text-align: center;
+    background-color: wheat;
+}
+
+
+
+footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(238, 90, 90);
+    background-color: rgb(102, 115, 134);
     color: white;
     text-align: center;
  }
